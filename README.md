@@ -54,7 +54,7 @@ You can deploy this bot anywhere.
 </details>
 
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/CyniteOfficial/Auto-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/tamilthalaiva/Auto-Filter">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 <details><summary>Deploy To VPS</summary>
 <p>
